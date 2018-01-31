@@ -1,0 +1,24 @@
+{
+  "name": "grabup2",
+  "version": "1.0.0",
+  "description": "1st ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tareshholkar/Grabup2.git"
+  },
+  "author": "Taresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tareshholkar/Grabup2/issues"
+  },
+  "homepage": "https://github.com/tareshholkar/Grabup2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
